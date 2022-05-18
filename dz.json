@@ -1,18 +1,15 @@
 [
 {
-  "countrie": "dz",
   "sourceId": "0",
   "sourceName": "Akhersaa",
   "sourceUrl": "http://www.akhersaa-dz.com/feed/"
 },
 {
-  "countrie": "dz",
   "sourceId": "1",
   "sourceName": "El khabar",
   "sourceUrl": "https://www.elkhabar.com/feeds/"
 },
 {
-  "countrie": "dz",
   "sourceId": "2",
   "sourceName": "El bilad",
   "sourceUrl": "https://www.elbilad.net/feed"
