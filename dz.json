@@ -13,5 +13,10 @@
   "sourceId": "2",
   "sourceName": "El bilad",
   "sourceUrl": "https://www.elbilad.net/feed"
+},
+{
+  "sourceId": "3",
+  "sourceName": "APS",
+  "sourceUrl": "http://feeds.feedburner.com/APS-Algerie-ar"
 }
 ]
