@@ -1,22 +1,43 @@
 [
-{
+ {
   "sourceId": "0",
-  "sourceName": "Akhersaa",
-  "sourceUrl": "http://www.akhersaa-dz.com/feed/"
+  "sourceName": "وكالة الانباء الجزائرية",
+  "sourceUrl": "http://feeds.feedburner.com/APS-Algerie-ar"
 },
 {
   "sourceId": "1",
-  "sourceName": "El khabar",
-  "sourceUrl": "https://www.elkhabar.com/feeds/"
-},
-{
-  "sourceId": "2",
-  "sourceName": "El bilad",
+  "sourceName": "البلاد",
   "sourceUrl": "https://www.elbilad.net/feed"
 },
 {
+  "sourceId": "2",
+  "sourceName": "الخبر",
+  "sourceUrl": "https://www.elkhabar.com/feeds/"
+},
+{
   "sourceId": "3",
-  "sourceName": "APS",
-  "sourceUrl": "http://feeds.feedburner.com/APS-Algerie-ar"
+  "sourceName": "اخر ساعة",
+  "sourceUrl": "http://www.akhersaa-dz.com/feed/"
+},
+{
+  "sourceId": "4",
+  "sourceName": "النهار",
+  "sourceUrl": "https://www.ennaharonline.com/feed/"
+},
+{
+  "sourceId": "5",
+  "sourceName": "الجلفة انفو",
+  "sourceUrl": "https://www.djelfa.info/ar/feed/index.rss"
+},
+{
+  "sourceId": "6",
+  "sourceName": "الهداف",
+  "sourceUrl": "https://feeds.feedburner.com/GalerieArtciles"
+},
+{
+  "sourceId": "7",
+  "sourceName": "الشباك الرياضي",
+  "sourceUrl": "https://sport.ennaharonline.com/feed/"
 }
+
 ]
