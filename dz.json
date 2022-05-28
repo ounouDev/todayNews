@@ -16,8 +16,8 @@
 },
 {
   "sourceId": "3",
-  "sourceName": "اخر ساعة",
-  "sourceUrl": "http://www.akhersaa-dz.com/feed/"
+  "sourceName": "الشروق",
+  "sourceUrl": "https://www.echoroukonline.com/feed"
 },
 {
   "sourceId": "4",
@@ -29,15 +29,55 @@
   "sourceName": "الجلفة انفو",
   "sourceUrl": "https://www.djelfa.info/ar/feed/index.rss"
 },
-{
+ {
   "sourceId": "6",
+  "sourceName": "اخر ساعة",
+  "sourceUrl": "http://www.akhersaa-dz.com/feed/"
+},
+ {
+  "sourceId": "7",
+  "sourceName": "الشعب",
+  "sourceUrl": "https://www.echaab.dz/comments/feed/"
+},
+ {
+  "sourceId": "8",
+  "sourceName": "الايام",
+  "sourceUrl": "https://www.elayem.dz/feed/"
+},
+ {
+  "sourceId": "9",
+  "sourceName": "المساء",
+  "sourceUrl": "https://www.el-massa.com/dz/?format=feed&type=rss"
+},
+{
+  "sourceId": "10",
   "sourceName": "الهداف",
   "sourceUrl": "https://feeds.feedburner.com/GalerieArtciles"
 },
 {
-  "sourceId": "7",
-  "sourceName": "الشباك الرياضي",
-  "sourceUrl": "https://sport.ennaharonline.com/feed/"
+  "sourceId": "11",
+  "sourceName": "EL MOUDJAHID",
+  "sourceUrl": "https://feeds.feedburner.com/ElmoudjahidArticles"
+},
+ {
+  "sourceId": "12",
+  "sourceName": "El Watan",
+  "sourceUrl": "https://www.elwatan.com/feed"
+},
+ {
+  "sourceId": "13",
+  "sourceName": "Le Soir d'Algérie",
+  "sourceUrl": "https://www.lesoirdalgerie.com/feed"
+},
+ {
+  "sourceId": "14",
+  "sourceName": "Liberté",
+  "sourceUrl": "https://www.liberte-algerie.com/feed"
+},
+ {
+  "sourceId": "15",
+  "sourceName": "Algerian Gazette",
+  "sourceUrl": "https://algeriangazette.com/feed"
 }
 
 ]
