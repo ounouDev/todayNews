@@ -8,6 +8,11 @@
   "sourceId": "1",
   "sourceName": "المنتخب",
   "sourceUrl": "https://www.almountakhab.com/sitemap-rss.rss"
+},
+  {
+  "sourceId": "2",
+  "sourceName": "البيضاوي",
+  "sourceUrl": "http://albidaoui.ma/feed"
 }
 
 ]
